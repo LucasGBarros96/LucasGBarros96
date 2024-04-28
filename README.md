@@ -37,6 +37,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBarros96&layout=compact&theme=radical" alt="My Github Stats">
+</p>
+
+<br>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGBarros96&show_icons=true&theme=dracula" alt="My Github Stats 2">
 </p>
 
