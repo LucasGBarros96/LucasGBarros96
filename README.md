@@ -53,4 +53,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 </div>
 
 
- ![Snake animation](https://github.com/LucasGBarros96/LucasGBarros96/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasGBarros96/LucasGBarros96/blob/output/github-contribution-grid-snake.svg)
