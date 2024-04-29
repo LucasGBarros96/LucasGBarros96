@@ -42,15 +42,11 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 </div>
 
 # 
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBarros96&layout=compact&theme=radical" alt="My Github Stats">
-</p>
+<div align = "center">
+<img width="49%" height="195px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBarros96&layout=compact&theme=radical" alt="My Github Stats">
+<img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGBarros96&show_icons=true&theme=dracula" alt="My Github Stats 2">
+</div>
 
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGBarros96&show_icons=true&theme=dracula" alt="My Github Stats 2">
-</p>
 
 <br>
 
