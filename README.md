@@ -33,8 +33,6 @@ No tempo livre, gosto de jogar no celular. E sinta-se à vontade para me contata
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-<br/>
-
 ## Estudando:
 
 <div style="display: inline_block">
