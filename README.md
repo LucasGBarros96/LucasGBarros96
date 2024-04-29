@@ -33,6 +33,12 @@ No tempo livre, gosto de jogar no celular. E sinta-se à vontade para me contata
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
+## Estudando neste momento:
+
+<div style="display: inline_block">
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
 # 
 <br>
 <p align="center">
