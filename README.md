@@ -52,6 +52,9 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGBarros96&show_icons=true&theme=dracula" alt="My Github Stats 2">
 </p>
 
+<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasGBarros96&bg_color=000000&color=77d1ef&line=7f7780&point=eacacf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ##
 ### Contatos:
 <div align="center"> 
